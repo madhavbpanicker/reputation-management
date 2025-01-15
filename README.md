@@ -11,3 +11,5 @@ The different factors to take into consideration are:
 - User and content attributes: Popularity of the User/Anonimity and hence, reliability of the opinions
 - Depth of Feedback: Analyze detailed reviews versus brief mentions or comments.
 - Topic Focus: Identify specific themes (e.g., product quality, customer service, marketing campaigns) discussed in relation to the brand
+
+[Documentation for ScraperAPI and Google Search JSON API use](Documentation/GSR-ScraperAPI-Usage.md)
